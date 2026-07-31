@@ -1,0 +1,2 @@
+# ThermoCentral
+Visualizzatore Temperatura MAremma
