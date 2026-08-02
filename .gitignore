@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary downloads & output images
+scarichi_temp/
+tmp/
+Vpd_archivio/
+
+# Aggiornamento gestione PNG (consenti il logo aziendale e immagini di calibrazione)
+*.png
+!logo lm chat gpt.png
+!follonica_left_scale.png
+!ALLENAMENTO COMPUTER VISION/*.png
